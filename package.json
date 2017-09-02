@@ -1,0 +1,11 @@
+{
+  "name": "metalsmith-global-metadata",
+  "version": "0.0.0",
+  "description": "Add metadata to the Metalsmith pipeline.",
+  "main": "lib/index.js",
+  "author": "Jon Lauridsen <mail@jonlauridsen.com>",
+  "license": "ISC",
+  "dependencies": {
+    "merge": "^1.2.0"
+  }
+}
